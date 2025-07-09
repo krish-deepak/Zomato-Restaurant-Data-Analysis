@@ -48,6 +48,12 @@ The analysis systematically explores the dataset, starting from data cleaning an
   * **Insight 2: Table Booking & Cost:** There is a strong positive correlation between offering **table booking** and having a **higher average cost**. Restaurants providing this service are typically in the premium price range.
   * **Business Implication:** Zomato could create premium subscription tiers for restaurants that highlight the "Table Booking" feature, targeting high-end establishments that focus on the dine-in experience.
 
+
+![image](https://github.com/user-attachments/assets/bf3a8565-3a47-4416-a46c-e8c7673b276e)
+
+![image](https://github.com/user-attachments/assets/41d59c55-cb42-4d27-8b4f-43f19ca8c6b9)
+
+
 ### 4\. Cuisine & Rating Analysis
 
   * **Insight 1: Popular Cuisines:** **North Indian** and **Chinese** cuisines are the most prevalent in the dataset, indicating their high demand and market saturation.
@@ -88,6 +94,7 @@ Dining Diversity (Min/Max Range): By examining the minimum and maximum cost for 
 High-Range Markets: Countries with a vast range between their minimum and maximum costs (e.g., USA) indicate a mature market with everything from cheap eats to exclusive fine dining.
 
 Niche Markets: Countries with a narrower cost range suggest a less diverse market, potentially focused on a specific economic segment (e.g., budget or mid-range).
+![image](https://github.com/user-attachments/assets/0933d318-618c-43d4-9d4d-89926331ebf0)
 
 
 ## Conclusion & Recommendations
