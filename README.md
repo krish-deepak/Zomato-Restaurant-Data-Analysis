@@ -44,6 +44,8 @@ The analysis systematically explores the dataset, starting from data cleaning an
 
 ### 3\. Service & Cost Analysis
 
+Synergistic Effects: Engineered a Service Combination feature to prove that offering bundled services (i.e., both Table Booking and Online Delivery) results in the highest average customer ratings.
+
   * **Insight 1: Online Delivery:** A significant number of restaurants offer online delivery. The analysis indicates that having an online delivery option is common across various price points but does not, on its own, guarantee a higher rating.
   * **Insight 2: Table Booking & Cost:** There is a strong positive correlation between offering **table booking** and having a **higher average cost**. Restaurants providing this service are typically in the premium price range.
   * **Business Implication:** Zomato could create premium subscription tiers for restaurants that highlight the "Table Booking" feature, targeting high-end establishments that focus on the dine-in experience.
@@ -74,6 +76,7 @@ For Restaurants: How to move from the crowded 'Average' category into 'Good' or 
     1.  **Higher price points often correlate with higher ratings**, suggesting that customers who pay more have higher satisfaction, likely due to better quality and service.
     2.  **Higher engagement (more votes) is linked to higher ratings**, creating a positive feedback loop.
   * **Business Analyst Recommendation:** Zomato should encourage users to rate and review restaurants by gamifying the process. For restaurant owners, this proves that investing in a quality dining experience that justifies a higher price point is a key driver for achieving top ratings.
+    Holistic Feature Relationships: Conducted a final correlation analysis, visualized with a heatmap, to synthesize all findings. This confirmed that Price Range, Votes, and the availability of Table Booking are the most powerful predictors of a high Aggregate rating.
 
 
 ### 6\. Feature Engineering & Global Cost Analysis
